@@ -13,7 +13,6 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: 'ENERGIZE - Fuel Your Fire',
   description: 'Premium energy drink for peak performance. Instant energy, enhanced focus, better performance.',
-  generator: 'v0.app',
   icons: {
     icon: [
       {
