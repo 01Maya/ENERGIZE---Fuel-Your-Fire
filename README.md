@@ -1,4 +1,4 @@
-# ⚡ ENERGIZE - Premium Energy Drink Landing Page
+# ⚡ ENERGIZE - Premium Energy Drink Landing Page 🧃
 
 A modern, premium, and fully responsive energy drink landing page built to showcase products with immersive animations and engaging user interactions.
 
