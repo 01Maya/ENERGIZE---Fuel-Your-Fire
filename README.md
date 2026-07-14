@@ -14,3 +14,4 @@ The website focuses on responsive layouts, elegant typography, animated product 
 
 Built using the latest frontend technologies, the project demonstrates responsive web design, motion design, reusable UI components, and modern development best practices.
 
+---
