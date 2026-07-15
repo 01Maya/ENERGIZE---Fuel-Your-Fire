@@ -19,6 +19,8 @@ Built using the latest frontend technologies, the project demonstrates responsiv
 
 # ✨ Features
 
+- 📱 Fully Responsive Design
+
 
 # 🛠 Tech Stack
 
