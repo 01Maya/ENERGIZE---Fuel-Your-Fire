@@ -16,6 +16,10 @@ Built using the latest frontend technologies, the project demonstrates responsiv
 
 ---
 
+
+# ✨ Features
+
+
 # 🛠 Tech Stack
 
 - Next.js
