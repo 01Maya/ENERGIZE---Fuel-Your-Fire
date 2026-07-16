@@ -25,7 +25,7 @@ Built using the latest frontend technologies, the project demonstrates responsiv
 - 🥤 Floating Product Animation
 - 🖱️ Interactive Hover Effects
 - 🎨 Beautiful Gradient Backgrounds
-
+- 📦 Animated Product Carousel
 
 # 🛠 Tech Stack
 
