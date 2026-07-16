@@ -24,7 +24,7 @@ Built using the latest frontend technologies, the project demonstrates responsiv
 - ✨ Animated Hero Section
 - 🥤 Floating Product Animation
 - 🖱️ Interactive Hover Effects
-
+- 🎨 Beautiful Gradient Backgrounds
 
 
 # 🛠 Tech Stack
