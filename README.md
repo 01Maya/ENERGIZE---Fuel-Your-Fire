@@ -26,7 +26,8 @@ Built using the latest frontend technologies, the project demonstrates responsiv
 - 🖱️ Interactive Hover Effects
 - 🎨 Beautiful Gradient Backgrounds
 - 📦 Animated Product Carousel
-
+- 🔄 Smooth Slide In / Slide Out Effects
+  
 # 🛠 Tech Stack
 
 - Next.js
