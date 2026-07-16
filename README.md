@@ -20,6 +20,8 @@ Built using the latest frontend technologies, the project demonstrates responsiv
 # ✨ Features
 
 - 📱 Fully Responsive Design
+- 🎯 Smooth Scroll Navigation
+- ✨ Animated Hero Section
 
 
 # 🛠 Tech Stack
