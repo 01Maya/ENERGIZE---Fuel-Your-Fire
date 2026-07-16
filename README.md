@@ -22,6 +22,9 @@ Built using the latest frontend technologies, the project demonstrates responsiv
 - 📱 Fully Responsive Design
 - 🎯 Smooth Scroll Navigation
 - ✨ Animated Hero Section
+- 🥤 Floating Product Animation
+- 🖱️ Interactive Hover Effects
+
 
 
 # 🛠 Tech Stack
