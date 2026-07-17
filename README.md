@@ -29,6 +29,9 @@ Built using the latest frontend technologies, the project demonstrates responsiv
 - 🔄 Smooth Slide In / Slide Out Effects
 - 💫 Mouse Click Spark Effect
 - 🌟 Floating Elements & Motion Effects
+- 🎭 Scroll Reveal Animations
+
+
 
 
 
