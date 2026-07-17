@@ -32,6 +32,7 @@ Built using the latest frontend technologies, the project demonstrates responsiv
 - 🎭 Scroll Reveal Animations
 - 📍 Navigation-to-Section Smooth Scroll
 - 🎉 Animated Cards & Icons
+- 🚀 Premium Product Showcase
 
 
 
