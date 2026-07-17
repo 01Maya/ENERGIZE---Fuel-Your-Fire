@@ -28,6 +28,7 @@ Built using the latest frontend technologies, the project demonstrates responsiv
 - 📦 Animated Product Carousel
 - 🔄 Smooth Slide In / Slide Out Effects
 - 💫 Mouse Click Spark Effect
+- 🌟 Floating Elements & Motion Effects
 
 
 
