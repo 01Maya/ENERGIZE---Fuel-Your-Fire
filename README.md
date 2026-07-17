@@ -27,6 +27,8 @@ Built using the latest frontend technologies, the project demonstrates responsiv
 - 🎨 Beautiful Gradient Backgrounds
 - 📦 Animated Product Carousel
 - 🔄 Smooth Slide In / Slide Out Effects
+- 💫 Mouse Click Spark Effect
+
 
 
 ---
