@@ -33,6 +33,8 @@ Built using the latest frontend technologies, the project demonstrates responsiv
 - 📍 Navigation-to-Section Smooth Scroll
 - 🎉 Animated Cards & Icons
 - 🚀 Premium Product Showcase
+- 💎 Clean & Minimal UI
+
 
 
 
