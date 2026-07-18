@@ -52,6 +52,10 @@ Eye-catching hero section featuring animated product visuals, bold typography, f
 ## ℹ️ ABOUT
 Highlights the product ingredients, brand values, and clean energy philosophy with elegant information cards.
 
+## 🥤 PRODUCTS
+Interactive product showcase featuring animated flavor selection, smooth carousel transitions, and premium product details.
+
+
 ---
 
 # 🛠 Tech Stack
