@@ -42,11 +42,6 @@ Premium animated landing page for an Energy Drink brand featuring interactive pr
 - 🚀 Premium Product Showcase
 - 💎 Clean & Minimal UI
 
-
-
-
-
-
 ---
 
 # 🛠 Tech Stack
@@ -57,3 +52,5 @@ Premium animated landing page for an Energy Drink brand featuring interactive pr
 - shadcn/ui
 
 ---
+
+# 📸 Screenshot
