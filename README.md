@@ -44,6 +44,9 @@ Premium animated landing page for an Energy Drink brand featuring interactive pr
 
 ---
 
+# 📂 Sections
+
+
 # 🛠 Tech Stack
 
 - Next.js
