@@ -46,6 +46,9 @@ Premium animated landing page for an Energy Drink brand featuring interactive pr
 
 # 📂 Sections
 
+## 🏠 HOME
+Eye-catching hero section featuring animated product visuals, bold typography, floating effects, and call-to-action buttons.
+
 
 # 🛠 Tech Stack
 
