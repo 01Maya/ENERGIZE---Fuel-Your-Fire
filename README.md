@@ -16,14 +16,6 @@ Built using the latest frontend technologies, the project demonstrates responsiv
 
 ---
 
-# 📷 Preview
-
-Premium animated landing page for an Energy Drink brand featuring interactive product showcases, modern UI components, and responsive layouts.
-
-🔗 https://energize01.vercel.app/
-
----
-
 # ✨ Features
 
 - 📱 Fully Responsive Design
@@ -64,6 +56,14 @@ Interactive product showcase featuring animated flavor selection, smooth carouse
 - Tailwind CSS
 - Framer Motion
 - shadcn/ui
+
+---
+
+# 📷 Preview
+
+Premium animated landing page for an Energy Drink brand featuring interactive product showcases, modern UI components, and responsive layouts.
+
+🔗 https://energize01.vercel.app/
 
 ---
 
