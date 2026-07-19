@@ -53,9 +53,8 @@ Displays the core advantages of the energy drink using beautifully animated feat
 ## ⭐ REVIEWS
 Customer testimonials presented with animated cards, rating indicators, and smooth sliding interactions.
 
-
----
-
+## 📞 CONTACT
+Call-to-action section encouraging visitors to subscribe, explore flavors, and connect with the brand.
 
 ---
 
