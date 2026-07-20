@@ -80,3 +80,5 @@ Premium animated landing page for an Energy Drink brand featuring interactive pr
 <img width="2403" height="5938" alt="Image" src="https://github.com/user-attachments/assets/25d83548-f258-4593-9fc3-c1b17b4e9b61" />
 
 ---
+
+# 🚀 Installation
