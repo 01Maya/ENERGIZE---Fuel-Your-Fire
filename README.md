@@ -114,3 +114,9 @@ yarn
 
 ---
 
+## Run Development Server
+
+```bash
+npm run dev
+```
+
