@@ -97,6 +97,8 @@ git clone https://github.com/yourusername/energize-energy-drink.git
 cd energize-energy-drink
 ```
 
+---
+
 ## Install Dependencies
 
 ```bash
