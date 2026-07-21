@@ -99,3 +99,10 @@ cd energize-energy-drink
 ```bash
 npm install
 ```
+
+or
+
+```bash
+pnpm install
+```
+
