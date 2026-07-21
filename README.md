@@ -89,6 +89,8 @@ Premium animated landing page for an Energy Drink brand featuring interactive pr
 git clone https://github.com/yourusername/energize-energy-drink.git
 ```
 
+---
+
 ## Navigate to Project
 
 ```bash
