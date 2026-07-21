@@ -134,3 +134,11 @@ npm run build
 ```
 
 ---
+
+## Start Production Server
+
+```bash
+npm run start
+```
+
+---
