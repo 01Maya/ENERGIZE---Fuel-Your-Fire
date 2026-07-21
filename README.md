@@ -106,3 +106,8 @@ or
 pnpm install
 ```
 
+or
+
+```bash
+yarn
+```
