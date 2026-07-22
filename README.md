@@ -149,4 +149,4 @@ This project is developed for educational and portfolio purposes.
 
 ---
 
-###  If you like this project, don't forget to give it a star!
+### ⭐ If you like this project, don't forget to give it a star!
