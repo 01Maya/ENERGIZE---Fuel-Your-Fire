@@ -8,7 +8,7 @@ Designed with smooth motion effects, interactive components, and a clean user ex
 
 ## 📖 Description
 
-ENERGIZE is a visually rich landing page that combines modern UI design with premium animations to deliver an engaging browsing experience. Every section is carefully crafted with interactive hover effects, smooth transitions, and dynamic product showcases.
+🥤 ENERGIZE is a visually rich landing page that combines modern UI design with premium animations to deliver an engaging browsing experience. Every section is carefully crafted with interactive hover effects, smooth transitions, and dynamic product showcases.
 
 🌟  The website focuses on responsive layouts, elegant typography, animated product displays, and intuitive navigation while maintaining excellent performance and accessibility across all devices.
 
